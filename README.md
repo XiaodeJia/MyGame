@@ -1,5 +1,5 @@
 # MyGame
-# This game is developed by SFML, which including five classes. 
-# Each class is responsible different functions.
-# Each class can be updated with new requirements without impacting the other classes. 
-# This game implements the basic flappy birds' functions according to requirements.
+
+# This game is developed by SFML and C++ in vitual studio 2017. 
+
+# This game implements the basic flappy birds' functions.
